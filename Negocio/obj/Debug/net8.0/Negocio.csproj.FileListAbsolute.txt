@@ -1,0 +1,60 @@
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\bin\Debug\net8.0\Datos.dll
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\bin\Debug\net8.0\Datos.pdb
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\gabrielhnunez\source\repos\ClaseProyecto\Negocio\obj\Debug\net8.0\ref\Negocio.dll
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\bin\Debug\net8.0\Datos.dll
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\bin\Debug\net8.0\Datos.pdb
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\gabrielhnunez\Downloads\ClaseProyecto\Negocio\obj\Debug\net8.0\ref\Negocio.dll
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\bin\Debug\net8.0\Datos.dll
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\bin\Debug\net8.0\Datos.pdb
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\estef\Desktop\UnRar\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\ref\Negocio.dll
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\bin\Debug\net8.0\Datos.dll
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\bin\Debug\net8.0\Datos.pdb
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\ref\Negocio.dll
