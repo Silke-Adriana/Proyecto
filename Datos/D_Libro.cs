@@ -7,7 +7,7 @@ namespace Datos
     {
        private DB_Conexion conexion = new DB_Conexion();
 
-         public DataTable Mostrar()
+        public DataTable Mostrar()
          {
               DataTable tabla = new DataTable();
               using (MySqlConnection connection = conexion.AbrirConexion())

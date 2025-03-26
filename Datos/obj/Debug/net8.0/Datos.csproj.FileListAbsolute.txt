@@ -46,3 +46,4 @@ C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Da
 C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Datos\obj\Debug\net8.0\refint\Datos.dll
 C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Datos\obj\Debug\net8.0\Datos.pdb
 C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Datos\obj\Debug\net8.0\ref\Datos.dll
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Datos\obj\Debug\net8.0\Datos.sourcelink.json

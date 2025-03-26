@@ -1,14 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace FrontEnd
+﻿namespace FrontEnd
 {
     public partial class F_Principal : Form
     {
@@ -17,8 +7,6 @@ namespace FrontEnd
         {
             InitializeComponent();
         }
-
-  
 
         private void Btn_FP_Clientes_Click(object sender, EventArgs e)
         {

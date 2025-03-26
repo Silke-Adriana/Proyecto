@@ -58,3 +58,4 @@ C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Ne
 C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\refint\Negocio.dll
 C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.pdb
 C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\ref\Negocio.dll
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Negocio\obj\Debug\net8.0\Negocio.sourcelink.json

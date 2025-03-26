@@ -352,3 +352,4 @@ C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\Fr
 C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\FrontEnd\obj\Debug\net8.0-windows\FrontEnd.genruntimeconfig.cache
 C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\FrontEnd\obj\Debug\net8.0-windows\ref\FrontEnd.dll
 C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\FrontEnd\obj\Debug\net8.0-windows\FrontEnd.F_Principal.resources
+C:\Users\estef\OneDrive\Documentos\Escritorio\ClaseProyecto (1)\ClaseProyecto\FrontEnd\obj\Debug\net8.0-windows\FrontEnd.sourcelink.json
